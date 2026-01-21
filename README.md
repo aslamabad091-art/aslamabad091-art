@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Ali Abdullah</h1>
 
 <p align="center">
@@ -9,8 +13,29 @@
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
+
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram">
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x">
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook">
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
@@ -47,7 +72,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-4A90E2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
